@@ -4,7 +4,7 @@ Donate link: http://www.jayson.in/projects#donations
 Tags:photo, flickr, feeds, photography, widget
 Requires at least: 2.7
 Tested up to: 2.8
-Stable tag: 1.0
+Stable tag: 1.1
 
 Displays Flickr photos available through public Flickr photo feeds.
 
