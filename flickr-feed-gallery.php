@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Flickr Feed Gallery
-Plugin URI: http://www.jayson.in/projects/wordpress-plugins/flickr-feed-gallery
+Plugin URI: http://www.jaysonjc.com/projects/wordpress-plugins/flickr-feed-gallery
 Description: Enables easy integration of Flickr photo feed to a WordPress blog. Configure feed parameters from settings page. Use <code>&lt;?php show_flickr_feed_gallery();?&gt;</code> in your theme or add plugin as a Widget.
 Version: 1.1
 Author: Jayson Joseph Chacko
-Author URI: http://www.jayson.in
+Author URI: http://www.jaysonjc.com
 */
 class Flickr_Feed_Gallery {
     var $feed_type;
