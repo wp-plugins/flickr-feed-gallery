@@ -1,9 +1,9 @@
 === Flickr Feed Gallery ===
 Contributors: jaysonjc
-Donate link: http://www.jayson.in/projects#donations
+Donate link: http://www.jaysonjc.com/projects#donations
 Tags:photo, flickr, feeds, photography, widget
 Requires at least: 2.7
-Tested up to: 2.8
+Tested up to: 3.0.1
 Stable tag: 1.1
 
 Displays Flickr photos available through public Flickr photo feeds.
